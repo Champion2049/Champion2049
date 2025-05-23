@@ -1,6 +1,6 @@
-<h1<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p></h1>
+</p>
 <h3 align="center">Just an average guy exploring AI...</h3>
 
 - 📫 How to reach me **me.chirayu.6@gmail.com**
