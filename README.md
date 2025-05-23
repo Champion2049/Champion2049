@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirayu Chaudhari</h1>
-<h3 align="center">Just an average guy exploring AI</h3>
+<h3 align="center">Just an average guy exploring AI...</h3>
 
 - 📫 How to reach me **me.chirayu.6@gmail.com**
 
