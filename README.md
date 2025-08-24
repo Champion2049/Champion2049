@@ -1,7 +1,5 @@
 <h1 align="left">Hey there! Welcome to my Profile</h1>
 
-<div align="left"> Check out my website: https://chids.netlify.app</div>
-
 ###
 
 <div align="center">
