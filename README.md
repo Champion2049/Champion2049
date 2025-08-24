@@ -1,6 +1,6 @@
-<h2 align="left">Hey there! Welcome to my Profile</h2>
+<h1 align="left">Hey there! Welcome to my Profile</h1>
 
-<h1 align="left"> Check out my website: https://chids.netlify.app</h1>
+<h2 align="left"> Check out my website: https://chids.netlify.app</h2>
 
 ###
 
